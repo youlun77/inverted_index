@@ -1,4 +1,4 @@
-# inverted_index
+#使用jieba斷詞並建立反向索引
 Information Retrival作業
 建立反向索引以方便後續使用
 
