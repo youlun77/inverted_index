@@ -19,7 +19,7 @@ Information Retrival作業
 ![image](https://user-images.githubusercontent.com/121109511/211745193-990bdc70-e02c-4e91-862f-5a2e16843a61.png)
 
 >![image](https://user-images.githubusercontent.com/121109511/211745510-6546102a-ce64-4e6d-81d2-2acdd96869a6.png)  
-由於單一詞彙可能會單一文章多次提及  
+由於單一詞彙可能會同一文章多次提及  
 所以需要去除重複的文章編號
 
 >印出需要的反向索引  
